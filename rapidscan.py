@@ -1,16 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-#                               __         __
-#                              /__)_   '_/(  _ _
-#                             / ( (//)/(/__)( (//)
-#                                  /
-#
-# Author     : Shankar Narayana Damodaran
-# Tool       : RapidScan v1.2
-# Usage      : python3 rapidsan.py example.com
-# Description: This scanner automates the process of security scanning by using a
-#              multitude of available linux security tools and some custom scripts.
-#
 
 # Importing the libraries
 import sys
