@@ -19,17 +19,11 @@ _**RapidScan has been ported to Python3 i.e. v1.2**. The Python2.7 codebase is a
 - **detailed comprehensive report** in a portable document format (*.pdf) with complete details of the scans and tools used. (_**under development**_)
 - **on the run metasploit auxilliary modules** to discover more vulnerabilities. (_**under development**_)
 
----
-### FYI:
-- _program is still under development, **works** and currently supports **80** vulnerability tests._
-- _parallel processing is not yet implemented, may be coded as more tests gets introduced._
-
 ## Installation
 
 Alternatively, your can install the `rapidscan` python module with `pip`. This will create a link for `rapidscan` in your PATH. 
 
 ```
-git clone https://github.com/skavngr/rapidscan.git /opt/
-cd /opt/rapidscan
-python3 -m pip install .
+https://github.com/tabassum-se/multi-tool-web-vul.git
+
 ```
